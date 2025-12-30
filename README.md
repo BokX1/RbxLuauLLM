@@ -1,6 +1,6 @@
 # RbxLuauLLM
 
-An open-source LLM wrapper for Roblox Luau scripting and scripted actions: natural language → Luau/actions (or command strings), with a proxy-first security model and optional validation/retry.
+An open-source LLM wrapper for Roblox Luau scripting and scripted actions: natural language → Luau/actions (or command strings), with a proxy-first security model and optional validation/retry. ([Example Working Project](https://github.com/BokX1/InfiniteYieldWithAI))
 
 > ✅ Authorized use only  
 > This project is intended for **your own Roblox experiences**, private test places, or other dev/admin/testing contexts where you have explicit permission.  
